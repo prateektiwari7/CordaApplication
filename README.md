@@ -1,4 +1,4 @@
-# CordaApplication
+# CordaApplication with UI
 
 
 clone the java repo
