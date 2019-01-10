@@ -115,7 +115,6 @@ $ go to library and type on cmd
 ./gradlew clean deployNodes
 
 
-
 Run bash file of deployNodes
 
 Corda web app will start .
